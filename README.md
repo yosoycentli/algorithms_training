@@ -75,13 +75,13 @@ exercise/valid_parentheses
 ## Exercise files
 
 Format:
-```bash
-<exercise_name>.md
+```
+exercises/<exercise_name>.md
 ```
 
 Example:
-```bash
-two_sum.md
+```
+exercises/two_sum.md
 ```
 
 Each exercise file should follow this structure:
