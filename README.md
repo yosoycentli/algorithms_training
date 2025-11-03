@@ -76,12 +76,12 @@ exercise/valid_parentheses
 
 Format:
 ```
-exercises/<exercise_name>.md
+exercises/<exercise_name>/<exercise_name>.md
 ```
 
 Example:
 ```
-exercises/two_sum.md
+exercises/two_sum/two_sum.md
 ```
 
 Each exercise file should follow this structure:
